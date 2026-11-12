@@ -1,0 +1,51 @@
+Id,Name,Category,Brand,Price,Quantity,Calories,IsOrganic
+1,Whole Milk,Dairy,Great Farms,3.49,24,150,false
+2,Cheddar Cheese,Dairy,Dairy Valley,4.99,12,110,false
+3,Greek Yogurt,Dairy,Healthy Choice,1.29,30,100,true
+4,Butter,Dairy,Great Farms,4.29,8,100,false
+5,Vanilla Ice Cream,Dairy,Sweet Cream,5.99,14,210,false
+6,White Bread,Bakery,Golden Loaf,2.49,18,80,false
+7,Whole Wheat Bread,Bakery,Golden Loaf,3.29,10,90,true
+8,Croissants,Bakery,Fresh Bake,4.99,6,230,false
+9,Blueberry Muffins,Bakery,Fresh Bake,5.49,9,320,false
+10,Bagels,Bakery,Golden Loaf,3.99,15,250,false
+11,Apples,Produce,Fresh Fields,1.99,40,95,true
+12,Bananas,Produce,Fresh Fields,0.69,50,105,true
+13,Strawberries,Produce,Fresh Fields,3.99,15,50,true
+14,Broccoli,Produce,Green Garden,2.49,20,55,true
+15,Carrots,Produce,Green Garden,1.49,35,40,true
+16,Potatoes,Produce,Green Garden,3.99,28,130,true
+17,Spinach,Produce,Green Garden,2.99,12,25,true
+18,Tomatoes,Produce,Fresh Fields,2.79,22,35,true
+19,Chicken Breast,Meat,Meat Market,7.99,12,165,false
+20,Ground Beef,Meat,Meat Market,6.49,16,250,false
+21,Salmon,Meat,Ocean Fresh,11.99,5,200,false
+22,Turkey,Meat,Meat Market,5.99,9,150,false
+23,Bacon,Meat,Meat Market,6.99,18,180,false
+24,Pork Chops,Meat,Meat Market,8.49,7,220,false
+25,Orange Juice,Beverages,Sunny Farms,3.99,14,110,false
+26,Apple Juice,Beverages,Sunny Farms,2.99,22,120,false
+27,Coffee,Beverages,Daily Grind,8.99,7,5,false
+28,Green Tea,Beverages,Daily Grind,4.49,18,0,true
+29,Bottled Water,Beverages,Clear Springs,1.49,60,0,false
+30,Soda,Beverages,Fizzy Drinks,2.49,32,150,false
+31,Potato Chips,Snacks,Crunch Time,3.49,25,160,false
+32,Pretzels,Snacks,Crunch Time,2.99,20,110,false
+33,Almonds,Snacks,Nut House,6.99,11,170,true
+34,Chocolate Bar,Snacks,Sweet Treats,1.49,40,210,false
+35,Granola Bars,Snacks,Healthy Choice,3.99,13,140,true
+36,Popcorn,Snacks,Crunch Time,2.49,26,100,false
+37,Peanut Butter,Pantry,Daily Staples,4.49,17,190,false
+38,White Rice,Pantry,Daily Staples,3.99,21,160,false
+39,Pasta,Pantry,Italian Kitchen,2.29,34,200,false
+40,Tomato Sauce,Pantry,Italian Kitchen,1.99,29,70,false
+41,Canned Corn,Pantry,Daily Staples,1.49,45,90,false
+42,Olive Oil,Pantry,Italian Kitchen,9.99,8,120,true
+43,Black Beans,Pantry,Daily Staples,1.29,38,110,true
+44,Flour,Pantry,Golden Grain,3.49,19,100,false
+45,Eggs,Dairy,Great Farms,3.79,20,70,false
+46,Ice Cream Sandwiches,Frozen,Sweet Cream,4.99,11,180,false
+47,Frozen Pizza,Frozen,Quick Meals,6.99,13,290,false
+48,Frozen Peas,Frozen,Green Garden,2.49,24,80,true
+49,Chicken Nuggets,Frozen,Quick Meals,5.49,16,220,false
+50,Frozen Berries,Frozen,Fresh Fields,4.99,10,70,true
